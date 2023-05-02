@@ -1,5 +1,6 @@
 # Yunzai-Script
 包含Yunzai,小派蒙自动安装脚本
+
 目前处于测试
 
 # 安装方式

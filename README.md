@@ -11,6 +11,8 @@
 wget https://github.com/Yummy-cookie/Yunzai-Script/raw/fd8764cce40b3126c860e2389adb4a4019b772dc/install.sh
 ```
 # 联系方式
-QQ
+QQ↓
+
 Mit_gancm:2169238901
+
 饼干:2562248115

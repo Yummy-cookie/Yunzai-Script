@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/Yummy-cookie/Yunzai-Script.git
 #拉取库
-wget https://github.com/Yummy-cookie/Yunzai-Script/raw/b3578591c66ad3cad647286c32e12e7c51ba2a8c/install.sh
+wget https://github.com/Yummy-cookie/Yunzai-Script/raw/main/install.sh
 #拉取脚本 可能具有时效性
 ```
 
